@@ -1,0 +1,14 @@
+This is a simple Array program which lets the user the customize, insert, delete ,search
+and display the array.
+you would be ask the (maximum fixed size of the array)capacity, size, array elements.
+
+it will give you 4 choices such as:
+1. insertion
+2. deletion
+3. search 
+4. display 
+
+
+
+
+-------------------------------------------------Thank you-----------------------------------------------------------------
